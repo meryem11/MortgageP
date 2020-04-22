@@ -6,6 +6,7 @@ Final project
 
 # Example how to use the package
 mortgage(loanamount, term, APR)
+
 mortgage(300000,30,0.05)
 
 
