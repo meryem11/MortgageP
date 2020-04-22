@@ -1,6 +1,6 @@
 #' @return dataframe of monthly payment
 #'
-#' @example mortgage(100000,0.05,30)
+#' @example mortgage(100000,30,0.05)
 #'
 #' @description The package gives a table that lists each regular payment on a mortgage based on a loan amount, annual interest rate, and duration of the laon.
 #'
