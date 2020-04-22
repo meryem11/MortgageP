@@ -1,11 +1,13 @@
 Package: MortgageP
 Type: Package
-Title: dataframe of mortgage
+Title: Mortgage amortization table
 Version: 0.1.0
 Author: Meryem El Rhazouani
 Maintainer: Meryem El Rhazouani <meryemkhair@gmail.com>
-Description: The package has a function that returns a table that lists each regular payment on a mortgage
- based on a loan amount, annual interest rate, and duration of the laon.
+Description: The package has one function that returns an amortization table that lists monthly payment on a mortgage
+ loan based on a loan amount, duration of loan in years, and annual interest rate. The table will
+ provide the breakdown of the payment by how much is allocated to interest and the loan principal.
+ It will also list the loan balance for each month.
 License: CCO
 Encoding: UTF-8
 LazyData: true
