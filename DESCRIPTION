@@ -4,7 +4,7 @@ Title: dataframe of mortgage
 Version: 0.1.0
 Author: Meryem El Rhazouani
 Maintainer: Meryem El Rhazouani <meryemkhair@gmail.com>
-Description: The package gives a table that lists each regular payment on a mortgage
+Description: The package has a function that returns a table that lists each regular payment on a mortgage
  based on a loan amount, annual interest rate, and duration of the laon.
 License: CCO
 Encoding: UTF-8
