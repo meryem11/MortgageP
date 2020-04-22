@@ -6,9 +6,11 @@
 #'
 #'@export
 
-mortgage<- function(loan_amt, term, APR) {
+mortgage<- function(loan_amt, years, APR) {
   # calculate simple monthly rate
   monthly_rate = APR / 12
+  # calculate loan term in months
+  term = years*12
 
   # calculate (constant) contractual monthly payment amount
 
