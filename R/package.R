@@ -1,7 +1,7 @@
 #' mortgage package
 #'
-#'  The package gives a table that lists each regular payment on a mortgage based on a loan amount, annual interest rate, and duration of the laon.
 #'
+#'The package has one function that returns an amortization table that lists monthly payment on a mortgageloan based on a loan amount, duration of loan in years, and annual interest rate. The table will provide the breakdown of the payment by how much is allocated to interest and the loan principal. It will also list the loan balance for each month.
 #' @docType package
 #'
 #' @author Meryem El Rhazouani
